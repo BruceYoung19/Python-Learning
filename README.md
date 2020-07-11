@@ -3,10 +3,12 @@ This is proof of upskilling
 
 ## What will I be doing?
 ##### Programs:
-- [ ] Hello world 
-- [ ] Loops
-- [ ] FileIO
+- [x] Hello world 
+- [x] Loops
+- [x] FileIO
 
+#### Other upskilling task
+- [ ] OpenCV
 
 ## Explanation
 ###### Loops
