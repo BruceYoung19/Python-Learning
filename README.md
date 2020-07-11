@@ -7,6 +7,8 @@ This is proof of upskilling
 - [x] Loops
 - [x] FileIO
 
+#### Other upskilling task
+- [ ] OpenCV
 
 ## Explanation
 ###### Loops
